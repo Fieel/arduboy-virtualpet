@@ -1,6 +1,18 @@
 # arduboy-virtualpet
 A virtual-pet like game designed to run on the Arduino Leonardo based Arduboy handeld arcade game console.
 
+## TODO
+
+* Fix buttons, menus and game structure
+* Add *age* stat
+* Add all animations (missing *still* and *run*)
+* Create new animations (sleeping, dead, ?)
+* Add background image
+* Decide how much to subtract stats over time
+* Implement way to interact
+* Add audio events, enable/disable audio
+* 
+
 ## Persistent savegames
 Save/Load supported thanks to the EEPROM Library, Leonardo based boards have 1kb of available storage space for storing data about the creature even when turned off.
 https://www.arduino.cc/en/Reference/EEPROM

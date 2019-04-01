@@ -1,4 +1,5 @@
 {
     "board": "arduino:avr:leonardo",
-    "port": "COM14"
+    "port": "COM14",
+    "sketch": "virtual-pet\\virtual-pet.ino"
 }
